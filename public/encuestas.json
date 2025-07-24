@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "Encuesta de clima laboral",
+    "fecha": "2024-06-12",
+    "estado": "publicada"
+  },
+  {
+    "id": 2,
+    "titulo": "Evaluación del equipo",
+    "fecha": "2024-07-01",
+    "estado": "borrador"
+  },
+  {
+    "id": 3,
+    "titulo": "Feedback de onboarding",
+    "fecha": "2024-05-25",
+    "estado": "cerrada"
+  }
+]
