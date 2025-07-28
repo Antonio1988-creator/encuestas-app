@@ -3,18 +3,80 @@
     "id": 1,
     "titulo": "Encuesta de clima laboral",
     "fecha": "2024-06-12",
-    "estado": "publicada"
+    "estado": "publicada",
+    "autor": "RRHH",
+    "respuestas": 125
   },
   {
     "id": 2,
     "titulo": "Evaluación del equipo",
     "fecha": "2024-07-01",
-    "estado": "borrador"
+    "estado": "borrador",
+    "autor": "Liderazgo",
+    "respuestas": 0
   },
   {
     "id": 3,
     "titulo": "Feedback de onboarding",
     "fecha": "2024-05-25",
-    "estado": "cerrada"
+    "estado": "cerrada",
+    "autor": "Recursos Humanos",
+    "respuestas": 89
+  },
+  {
+    "id": 4,
+    "titulo": "Encuesta de satisfacción anual",
+    "fecha": "2023-12-15",
+    "estado": "cerrada",
+    "autor": "RRHH",
+    "respuestas": 230
+  },
+  {
+    "id": 5,
+    "titulo": "Opinión sobre beneficios corporativos",
+    "fecha": "2024-02-10",
+    "estado": "publicada",
+    "autor": "Compensaciones",
+    "respuestas": 102
+  },
+  {
+    "id": 6,
+    "titulo": "Evaluación de desempeño",
+    "fecha": "2024-07-20",
+    "estado": "en revisión",
+    "autor": "Gestión de Talento",
+    "respuestas": 58
+  },
+  {
+    "id": 7,
+    "titulo": "Sondeo rápido sobre trabajo remoto",
+    "fecha": "2024-06-28",
+    "estado": "publicada",
+    "autor": "Operaciones",
+    "respuestas": 310
+  },
+  {
+    "id": 8,
+    "titulo": "Encuesta de salud mental",
+    "fecha": "2024-04-02",
+    "estado": "cerrada",
+    "autor": "Bienestar",
+    "respuestas": 75
+  },
+  {
+    "id": 9,
+    "titulo": "Evaluación de liderazgo",
+    "fecha": "2024-07-15",
+    "estado": "borrador",
+    "autor": "Dirección General",
+    "respuestas": 0
+  },
+  {
+    "id": 10,
+    "titulo": "Satisfacción con herramientas digitales",
+    "fecha": "2024-03-19",
+    "estado": "cerrada",
+    "autor": "Tecnología",
+    "respuestas": 144
   }
 ]

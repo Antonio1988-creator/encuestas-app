@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { SpeedInsights } from "@vercel/speed-insights/react"
 import { Encuesta } from "./types";
 import { EncuestasFilter } from "./components/EncuestasFilter";
 import { EncuestasTable } from "./components/EncuestasTable";
