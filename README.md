@@ -10,3 +10,12 @@
 ## Descripción
 
 Aplicación React + Typescript que muestra una tabla de encuestas cargadas desde `public/encuestas.json` con filtro por estado.
+
+# Create-React-App Tailwind Encuesta
+
+Pequeña aplicación frontend creada con React + TypeScript, que muestra una tabla de encuestas con filtros por estado.
+
+🌐 **Demo online:**  
+🔗 [https://encuestas-app-git-main-antonios-projects-c4353432.vercel.app](https://encuestas-app-git-main-antonios-projects-c4353432.vercel.app)
+
+---
